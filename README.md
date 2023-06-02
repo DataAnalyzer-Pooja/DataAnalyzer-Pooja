@@ -18,9 +18,7 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 
 - 📫 How to reach me **45poojaverma@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DataAnalyzer-Pooja?tab=repositories](https://github.com/DataAnalyzer-Pooja?tab=repositories)
-
-
+- 👨‍💻 All  my projects are available at [https://github.com/DataAnalyzer-Pooja?tab=repositories](https://github.com/DataAnalyzer-Pooja?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +26,4 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 <a href="https://instagram.com/pooja_verma15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooja_verma15" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dataanalyzer-pooja&show_icons=true&locale=en&layout=compact" alt="dataanalyzer-pooja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dataanalyzer-pooja&show_icons=true&locale=en" alt="dataanalyzer-pooja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dataanalyzer-pooja&" alt="dataanalyzer-pooja" /></p>
