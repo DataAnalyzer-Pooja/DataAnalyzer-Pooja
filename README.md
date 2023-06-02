@@ -10,15 +10,17 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataanalyzer-pooja&label=Profile%20views&color=0e75b6&style=flat" alt="dataanalyzer-pooja" /> </p>
 
-- 💻 I am proficient in Advanced Excel, SQL, POWER BI and Python basics.
+- 💻 I am proficient in **Advanced Excel, SQL, POWER BI and Python basics.**
 
 - 🔭 I am currently working on **my portfolio projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DataAnalyzer-Pooja?tab=repositories](https://github.com/DataAnalyzer-Pooja?tab=repositories)
 
 - 💬 Ask me about **Excel, SQL, Power BI.**
 
 - 📫 How to reach me **45poojaverma@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DataAnalyzer-Pooja?tab=repositories](https://github.com/DataAnalyzer-Pooja?tab=repositories)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
