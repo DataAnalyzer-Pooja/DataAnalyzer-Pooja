@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub 
 
-A few months ago, I made the decision to explore the emerging fields to shape my career and that's when I landed on data analytics. Since then, I have been learning a lot about data analysis through courses and working on projects to build my portfolio. It's powerful to see how data can make a big difference in decision making and bringing about positive changes. I believe my skills, work experience and dedication to data field can make me a good fit in the realm of data analytics. Looking forward for an opportunity to join a team of experienced professionals and continuing my growth as a data analyst. I am confident that I have what it takes to succeed in this role. 
+A few months ago, I made the decision to explore the emerging fields to shape my career and that's when I landed on data analytics. Since then, I have been learning a lot about data analysis through courses and working on projects to build my portfolio. It's powerful to see how data can make a big difference in decision making and bringing about positive changes. I believe my skills, work experience and dedication to data field can make me a good fit in the realm of data analytics. Looking forward for an opportunity to join a team of experienced professionals and continuing my growth as a data analyst. I am confident that I have what it takes to succeed in this role.
 
 <img align="right" alt="Coding" width="350" src="https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif">
 
