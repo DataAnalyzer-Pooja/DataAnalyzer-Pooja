@@ -19,14 +19,13 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 - 📫 How to reach me **45poojaverma@gmail.com**
 
 - 👨‍💻 Here is a list of my projects. 
-     - Global Methane Emissions Analysis (Excel | SQL | PowerPoint) 
-       GitHub Repository | Presentation 
-     - Business Insights 360 (Excel | SQL | Power BI | DAX Studio)
-     - Sales Insights Analysis (SQL | Power BI)
-     - Earth's CO2 Emissions Aanlysis (Power BI)
-     - Data Professionals Survey Analysis (Excel | Power BI)
-     - Bike Sales Analysis (Excel)
-     - PPP Loan Analysis (SQL | Tableau)
+     - Global Methane Emissions Analysis (GitHub Repository | [Presentation](https://drive.google.com/drive/u/1/folders/1IaUE785mMRg--RPuXPMxwqW7h6Ayp_OJ))
+     - Business Insights 360 (GitHub Repository | [Live Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-2))
+     - Sales Insights Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Sales-Insights-Case-Study) | [Live Dashboard](https://www.novypro.com/project/poojaverma-1))
+     - Earth's CO2 Emissions Aanlysis (GitHub Repository | Live Dashboard)
+     - Data Professionals Survey Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Data-Professionals-Survey-Case-Study) | [Live Dashboard](https://www.novypro.com/project/poojaverma))
+     - Bike Sales Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Bike-Sales-Case-Study))
+     - PPP Loan Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/blob/main/README.md) | [Live Dashboard](https://public.tableau.com/app/profile/pooja1749/viz/PPPAnalysisDashboard/PPPSummary))
 
 
 <h3 align="left">Connect with me:</h3>
