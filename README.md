@@ -19,7 +19,8 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 - 📫 How to reach me **45poojaverma@gmail.com**
 
 - 👨‍💻 Here is a list of my projects. 
-     - Global Methane Emission Analysis (Excel | SQL | PowerPoint) 
+     - Global Methane Emissions Analysis (Excel | SQL | PowerPoint) 
+       GitHub Repository | Presentation 
      - Business Insights 360 (Excel | SQL | Power BI | DAX Studio)
      - Sales Insights Analysis (SQL | Power BI)
      - Earth's CO2 Emissions Aanlysis (Power BI)
