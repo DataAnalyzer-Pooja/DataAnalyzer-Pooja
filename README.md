@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFdv56E5VHVow/profile-displaybackgroundimage-shrink_350_1400/0/1670591696130?e=1691020800&v=beta&t=4v3-BPHY5-S0x05hso_Pqta6GZy33XEzFmZGcEDsmdA)
+
 <h1 align="center">Hi 👋, I'm Pooja Verma</h1>
 <h3 align="center">Data Analyst</h3>
 
