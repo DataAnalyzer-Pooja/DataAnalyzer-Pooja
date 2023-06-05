@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pooja Verma</h1>
+<h1 align="center">👋 Hi, I'm Pooja Verma</h1>
 <h3 align="center">Data Analyst</h3>
 
 # Welcome to my GitHub Repository
