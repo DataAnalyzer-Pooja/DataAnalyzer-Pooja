@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I'm Pooja Verma</h1>
 <h3 align="center">Data Analyst</h3>
 
-# Welcome to my GitHub Repository
+# Welcome to my GitHub 
 
-A few months ago, I made the decision to explore the emerging fields to shape my career and that's when I landed on data analytics. Since then, I have been learning a lot about data analysis through courses and working on projects to build my project portfolio. It's powerful to see how data can make a big difference in decision-making and bringing about positive changes. I believe my skills, work experience and dedication to data field can make me a good fit in the realm of data analytics. Looking forward for an opportunity to join a team of experienced professionals and continuing my growth as a data analyst. I am confident that I have what it takes to succeed in this role. 
+A few months ago, I made the decision to explore the emerging fields to shape my career and that's when I landed on data analytics. Since then, I have been learning a lot about data analysis through courses and working on projects to build my portfolio. It's powerful to see how data can make a big difference in decision making and bringing about positive changes. I believe my skills, work experience and dedication to data field can make me a good fit in the realm of data analytics. Looking forward for an opportunity to join a team of experienced professionals and continuing my growth as a data analyst. I am confident that I have what it takes to succeed in this role. 
 
 <img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif">
 
@@ -18,7 +18,15 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 
 - 📫 How to reach me **45poojaverma@gmail.com**
 
-- 👨‍💻 All  my projects are available at [https://github.com/DataAnalyzer-Pooja?tab=repositories](https://github.com/DataAnalyzer-Pooja?tab=repositories)
+- 👨‍💻 Here is a list of my projects. 
+     - Global Methane Emission Analysis (Excel | SQL | PowerPoint) 
+     - Business Insights 360 (Excel | SQL | Power BI | DAX Studio)
+     - Sales Insights Analysis (SQL | Power BI)
+     - Earth's CO2 Emissions Aanlysis (Power BI)
+     - Data Professionals Survey Analysis (Excel | Power BI)
+     - Bike Sales Analysis (Excel)
+     - PPP Loan Analysis (SQL | Tableau)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
