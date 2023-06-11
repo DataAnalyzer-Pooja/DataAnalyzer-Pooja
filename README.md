@@ -20,7 +20,7 @@ A few months ago, I made the decision to explore the emerging fields to shape my
 
 - 👨‍💻 Here is a list of my projects. 
      - Global Methane Emissions Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/tree/main) | [Presentation](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/Global_methane_emission_ppt.pptx))
-     - Business Insights 360 (GitHub Repository | [Live Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-2))
+     - Business Insights 360 ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Business-Insights-360-Case-Study/blob/main/README.md) | [Live Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-2))
      - Sales Insights Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Sales-Insights-Case-Study) | [Live Dashboard](https://www.novypro.com/project/poojaverma-1))
      - Earth's CO2 Emissions Aanlysis (GitHub Repository | Live Dashboard)
      - Data Professionals Survey Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Data-Professionals-Survey-Case-Study) | [Live Dashboard](https://www.novypro.com/project/poojaverma))
