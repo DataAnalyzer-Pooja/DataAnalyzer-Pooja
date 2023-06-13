@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Pooja Verma</h1>
 <h3 align="center">Data Analyst</h3>
 
-# Welcome to my GitHub Profile
+# Welcome to my GitHub 
 
 A few months ago, I made the decision to explore the emerging fields to shape my career and that's when I landed on data analytics. Since then, I have been learning a lot about data analysis through courses and working on projects to build my portfolio. It's powerful to see how data can make a big difference in decision making and bringing about positive changes. I believe my skills, work experience and dedication to data field can make me a good fit in the realm of data analytics. I am confident that I have what it takes to succeed in this role.
 
