@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Pooja Verma</h1>
 <h3 align="center">Data Analyst</h3>
 
-# Welcome to my GitHub 
+# Welcome to my GitHub Profile
 
 A few months ago, I made the decision to explore the emerging fields to shape my career and that's when I landed on data analytics. Since then, I have been learning a lot about data analysis through courses and working on projects to build my portfolio. It's powerful to see how data can make a big difference in decision making and bringing about positive changes. I believe my skills, work experience and dedication to data field can make me a good fit in the realm of data analytics. I am confident that I have what it takes to succeed in this role.
 
@@ -22,7 +22,7 @@ A few months ago, I made the decision to explore the emerging fields to shape my
      - Global Methane Emissions Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/tree/main) | [Presentation](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/Global_methane_emission_ppt.pptx))
      - Business Insights 360 ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Business-Insights-360-Case-Study/blob/main/README.md) | [Live Dashboard](https://www.novypro.com/project/business-insights-360-power-bi-2))
      - Sales Insights Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Sales-Insights-Case-Study) | [Live Dashboard](https://www.novypro.com/project/poojaverma-1))
-     - Earth's CO2 Emissions Analysis (GitHub Repository | Live Dashboard)
+     - Earth's CO2 Emissions Analysis (GitHub Repository | Live Dashboard) :round_pushpin: In progress :round_pushpin:
      - Data Professionals Survey Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Data-Professionals-Survey-Case-Study) | [Live Dashboard](https://www.novypro.com/project/poojaverma))
      - Bike Sales Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/Bike-Sales-Case-Study))
      - PPP Loan Analysis ([GitHub Repository](https://github.com/DataAnalyzer-Pooja/PPP-Loan-Case-Study/blob/main/README.md) | [Live Dashboard](https://public.tableau.com/app/profile/pooja1749/viz/PPPAnalysisDashboard/PPPSummary))
